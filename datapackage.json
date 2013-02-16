@@ -1,0 +1,37 @@
+{
+  "author": "ZOPA Ltd", 
+  "author_email": "", 
+  "download_url": "", 
+  "extras": {}, 
+  "id": "", 
+  "license": "", 
+  "maintainer": "Rufus Pollock", 
+  "maintainer_email": "rufus.pollock@okfn.org", 
+  "name": "zopa-market-information", 
+  "notes": "", 
+  "relationships": "", 
+  "resources": [
+      {
+          "url": "http://thedatahub.org/storage/f/file/857de5ed-be36-469b-bca7-f0457484b838",
+          "name": "market_quote_report.csv",
+          "description": "Interest rates in the market",
+          "format": "csv",
+          "mimetype": "text/csv",
+          "size": 550090,
+          "hash": "md5:7e56ad24dcb2188ff9f3e62615a51bf0"
+      },
+      {
+          "url": "http://thedatahub.org/storage/f/file/857de5ed-be36-469b-bca7-f0457484b838",
+          "name": "monthly_bad_debt_20110815_download.xls",
+          "description": "Monthly bad debt rates (as of Aug 2011)",
+          "format": "xls",
+          "mimetype": "application/vnd.ms-excel",
+          "size": 70144,
+          "hash": "md5:a5100d015e71b37fc88225b9f71d84e2"
+      }
+  ], 
+  "tags": ["lending", "economics", "microfinance", "interest-rates", "todo.isitopendata"], 
+  "title": "ZOPA Market Interest Rate and Risk Data", 
+  "url": "https://uk.zopa.com/ZopaWeb/public/lending/meet-dave.html", 
+  "version": "2011-09"
+}
