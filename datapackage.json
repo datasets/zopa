@@ -14,6 +14,7 @@
       {
           "url": "http://thedatahub.org/storage/f/file/857de5ed-be36-469b-bca7-f0457484b838",
           "name": "market_quote_report.csv",
+          "path": "data/market_quote_report.csv",
           "description": "Interest rates in the market",
           "format": "csv",
           "mimetype": "text/csv",
@@ -23,6 +24,7 @@
       {
           "url": "http://thedatahub.org/storage/f/file/857de5ed-be36-469b-bca7-f0457484b838",
           "name": "monthly_bad_debt_20110815_download.xls",
+          "path": "",
           "description": "Monthly bad debt rates (as of Aug 2011)",
           "format": "xls",
           "mimetype": "application/vnd.ms-excel",
